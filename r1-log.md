@@ -26,6 +26,12 @@ Link: https://
 
 ### Round 1 - Day 2 (Wednesday, October 21, 2026)
 
+Day 2, I didn't write any code but instead went over the fundamentals of *JavaScript*, revisiting the concepts that form the foundation of programming.
+
+I covered variables and data types, learning how information is stored and represented, as well as strings and how they are used to work with text. I also reviewed comparisons, conditionals, and logical operators, which allow programs to evaluate values, make decisions, and execute actions based on specific conditions.
+
+Today's session was a reminder that understanding the basics is essential before moving on to more complex concepts. Sometimes, moving forward means taking a step back to strengthen your foundation.
+
 <br>
 
 Link: https://
