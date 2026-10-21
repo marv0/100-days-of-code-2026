@@ -18,11 +18,7 @@ This journey is about more than learning to code. It is about cultivating discip
 
 I am reminding myself that **baby steps are still steps**. I don't need to have everything figured out, nor do I need to compare my beginning to someone else's middle. I only need the courage to begin, the patience to learn, and the commitment to return tomorrow a little better than I am today.
 
-**Day 1 of 100. A fresh start. An open mind. One step at a time.**
-
-<br>
-
-Link: https://
+**Link:** https://
 
 ### Round 1 - Day 2 (Wednesday, October 21, 2026)
 
@@ -32,6 +28,4 @@ I covered variables and data types, learning how information is stored and repre
 
 Today's session was a reminder that understanding the basics is essential before moving on to more complex concepts. Sometimes, moving forward means taking a step back to strengthen your foundation.
 
-<br>
-
-Link: https://
+**Link:** https://
