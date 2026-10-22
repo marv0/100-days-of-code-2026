@@ -29,3 +29,11 @@ I covered variables and data types, learning how information is stored and repre
 Today's session was a reminder that understanding the basics is essential before moving on to more complex concepts. Sometimes, moving forward means taking a step back to strengthen your foundation.
 
 **Link:** https://
+
+### Round 1 - Day 3 (Thursday, October 22, 2026)
+
+Explored JavaScript functions, learning how to create reusable blocks of code. I covered regular functions, arrow functions, callback functions, and first-class functions to gain a deeper understanding of how these concepts make code more organized, flexible, and reusable.
+
+**Link:** https://
+
+
