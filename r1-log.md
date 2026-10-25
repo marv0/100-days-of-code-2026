@@ -36,4 +36,16 @@ Explored JavaScript functions, learning how to create reusable blocks of code. I
 
 **Link:** https://
 
+### Round 1 — Days 4 - 6 (Friday, October 23, 2026 - Sunday, October 25, 2026)
+
+I skipped Days 4 and 5, so today I covered the material for all three days in one session.
+
+I started with **scope, lexical scoping, and the scope chain**, exploring how JavaScript determines where variables are accessible and how inner scopes can access variables in outer scopes.
+
+Next, I moved to **arrays and objects**, learning how to store and organize data. I explored array methods for working with collections, as well as accessing and modifying object properties.
+
+I then covered **debugging** to identify and fix errors, followed by **loops and object iteration** to understand how to repeat operations and process data. Finally, I explored **traversing nested objects**, building on my understanding of objects to access data stored within deeper structures.
+
+Together, these topics helped me connect how JavaScript manages variable access, organizes data, and processes it using loops and iteration.
+
 
