@@ -4,7 +4,7 @@
 ### Name: Marvin Ogot
 ### Date: Tuesday, October 20, 2026
 
-### Round 1 — Day 1 (Tuesday, October 20, 2026)
+### Day 1 (Tuesday, October 20, 2026)
 
 *“It is quite humbling to start fresh. It takes a lot of courage. But it can be reinvigorating. You just have to put your ego on a shelf and tell it to be quiet.”* — Jennifer Ritchie Payette
 
@@ -20,7 +20,7 @@ I am reminding myself that **baby steps are still steps**. I don't need to have 
 
 **Link:** https://
 
-### Round 1 - Day 2 (Wednesday, October 21, 2026)
+### Day 2 (Wednesday, October 21, 2026)
 
 Day 2, I didn't write any code but instead went over the fundamentals of *JavaScript*, revisiting the concepts that form the foundation of programming.
 
@@ -30,13 +30,13 @@ Today's session was a reminder that understanding the basics is essential before
 
 **Link:** https://
 
-### Round 1 - Day 3 (Thursday, October 22, 2026)
+### Day 3 (Thursday, October 22, 2026)
 
 Explored JavaScript functions, learning how to create reusable blocks of code. I covered regular functions, arrow functions, callback functions, and first-class functions to gain a deeper understanding of how these concepts make code more organized, flexible, and reusable.
 
 **Link:** https://
 
-### Round 1 — Days 4 - 6 (Friday, October 23, 2026 - Sunday, October 25, 2026)
+### Day 4 - 6 (Friday, October 23, 2026 - Sunday, October 25, 2026)
 
 I skipped Days 4 and 5, so today I covered the material for all three days in one session.
 
@@ -47,5 +47,13 @@ Next, I moved to **arrays and objects**, learning how to store and organize data
 I then covered **debugging** to identify and fix errors, followed by **loops and object iteration** to understand how to repeat operations and process data. Finally, I explored **traversing nested objects**, building on my understanding of objects to access data stored within deeper structures.
 
 Together, these topics helped me connect how JavaScript manages variable access, organizes data, and processes it using loops and iteration.
+
+### Day 7 & 8 (Monday, October 26 2026 & Tuesday, October 27, 2026)
+
+Explored first-class functions and how JavaScript allows functions to be treated as values. I built on this by learning about array iteration methods, including `find()`, `filter()`, `map()`, `reduce()`, and `forEach()`, and how they help search, filter, transform, calculate from, and perform actions on array elements.
+
+Also explored how arrays and objects work behind the scenes, followed by destructuring and the spread operator for extracting and copying data. Finally, I covered default, rest, and spread syntax in function parameters.
+
+These concepts helped me understand how to work with data more efficiently and write cleaner, more flexible JavaScript.
 
 
